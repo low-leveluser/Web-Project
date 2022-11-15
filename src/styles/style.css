@@ -206,7 +206,7 @@ ul, ul li {
 
 .main__title::before{
     content: "|";
-    width: 4px;
+    width: 10px;
     height: 40px;
     color: #41F6D7;
     padding-left: -4px;
