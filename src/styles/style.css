@@ -1,21 +1,21 @@
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url("/assets/fonts/TTLakesCondensed-Medium.eot");
+    src: url("/Web-Project/assets/fonts/TTLakesCondensed-Medium.eot");
     src: local('TT Lakes Condensed Medium'), local('TTLakesCondensed-Medium'),
-        url("/assets/fonts/TTLakesCondensed-Medium.eot?#iefix") format('embedded-opentype'),
-        url("/assets/fonts/TTLakesCondensed-Medium.woff") format('woff'),
-        url("/assets/fonts/TTLakesCondensed-Medium.ttf") format('truetype');
+        url("/Web-Project/assets/fonts/TTLakesCondensed-Medium.eot?#iefix") format('embedded-opentype'),
+        url("/Web-Project/assets/fonts/TTLakesCondensed-Medium.woff") format('woff'),
+        url("/Web-Project/assets/fonts/TTLakesCondensed-Medium.ttf") format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url("/assets/fonts/TTLakes-DemiBoldItalic.eot");
+    src: url("/Web-Project/assets/fonts/TTLakes-DemiBoldItalic.eot");
     src: local('TT Lakes DemiBold Italic'), local('TTLakes-DemiBoldItalic'),
-        url("/assets/fonts/TTLakes-DemiBoldItalic.eot?#iefix") format('embedded-opentype'),
-        url("/assets/fonts/TTLakes-DemiBoldItalic.woff") format('woff'),
-        url("/assets/fonts/TTLakes-DemiBoldItalic.ttf") format('truetype');
+        url("/Web-Project/assets/fonts/TTLakes-DemiBoldItalic.eot?#iefix") format('embedded-opentype'),
+        url("/Web-Project/assets/fonts/TTLakes-DemiBoldItalic.woff") format('woff'),
+        url("/Web-Project/assets/fonts/TTLakes-DemiBoldItalic.ttf") format('truetype');
     font-weight: 600;
     font-style: italic;
 }
@@ -85,13 +85,13 @@ ul, ul li {
     margin-left: -10px;
     margin-top: 10px;
     position: absolute;
-    content: url("/assets/img/divider.svg");
+    content: url("/Web-Project/assets/img/divider.svg");
 }
 .header__logo:after{
     margin-left: 17px;
     margin-top: 10px;
     position: absolute;
-    content: url("/assets/img/divider.svg");
+    content: url("/Web-Project/assets/img/divider.svg");
 }
 
 
@@ -108,7 +108,7 @@ ul, ul li {
     margin-left: 17px;
     margin-top: 5px;
     position: absolute;
-    content: url("/assets/img/divider.svg");
+    content: url("/Web-Project/assets/img/divider.svg");
 }
 .header__rightpos {
     display: flex;
